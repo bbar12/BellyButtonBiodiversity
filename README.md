@@ -4,4 +4,4 @@ In this challenge, Javascript and HTML tools were used to analyze data using the
 
 Data calls were not made to a website but the JSON using D3 in Javascript. This allowed for the data to be put into a dropdown menu and for graphs to be created for the top 10 bacterial species found in each individual, how it correlates to the frequency of washing by use of the gauge chart as well as a visual representation of each of the bacterial species. 
 
-![images/homescreen.PNG]
+![](https://github.com/bbar12/BellyButtonBiodiversity/blob/master/images/homescreen.PNG)
