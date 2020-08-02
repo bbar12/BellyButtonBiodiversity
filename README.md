@@ -6,6 +6,6 @@ Data calls were not made to a website but the JSON using D3 in Javascript. This 
 
 ![Homescreen Image for ID 940](https://github.com/bbar12/BellyButtonBiodiversity/blob/master/images/homescreen.PNG)
 
-![Selection of ID 947 Image 1]()
+![Selection of ID 947 Image 1](https://github.com/bbar12/BellyButtonBiodiversity/blob/master/images/id947.PNG)
 
-![Selection of ID 947 Image 2]()
+![Selection of ID 947 Image 2](https://github.com/bbar12/BellyButtonBiodiversity/blob/master/images/id947bubble.PNG)
